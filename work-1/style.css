@@ -1,0 +1,217 @@
+/* header */
+header{
+    /* background-image: url("../images/developer.png"),url("../images/header_bg.png"); */
+    background-repeat: no-repeat;
+    background-position: top left, bottom right;
+  }
+  .foucs{
+    display: flex;
+    justify-content: space-evenly;
+    background-color: rgb(238, 193, 193);
+    border-radius: 25px;
+
+  }
+/* nav style */
+nav{
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    margin: 0px 200px;
+}
+nav-title{
+    font-weight: 800;
+    font-size: 45px;
+}
+/* shared style */
+.banner-pic{
+  width: 600px;
+
+}
+ .seconder-bg{
+    background-color: #FFF8F3;
+ }
+ .btn-primary{
+    background-color: green;
+    font-weight: bold;
+    color: white;
+    padding: 18px 35px;
+    border-radius: 5px;
+    font-size: 20px;
+
+  }
+  /* banner style */
+  .banner{
+    display: flex;
+    width: 100%;
+    align-items: center;
+    gap: 600px;
+  }
+  .banner-container{
+    text-align: center;
+    max-width: 580px;
+    justify-content: space-around;
+    
+  }
+  .ok{
+    display: flex;
+    justify-content: space-around;
+    box-sizing: border-box;
+    border-radius: 20px;
+    margin: 32px;
+    color: rgb(114, 71, 255);
+    
+  }
+  .ok-box-1{
+    padding: 32px;
+    border-radius: 2px solid black;
+    background-color: bisque;
+    
+  }
+  .ok-box-2{
+    background-color: blue;
+
+  }
+  .ok-box-3{
+    background-color: blueviolet;
+
+  }
+  .a1{
+    border-radius: 20px;
+    background-color: #5490F5;
+    color: white;
+    text-align: center;
+  }
+  .a2{
+    background-color: #09A15C;
+    color: white;
+    text-align: center;
+    border-radius: 4px;
+
+  }
+  .a3{
+    border-radius: 4px;
+    background-color: #FFC239;
+    text-align: center;
+  }
+
+  .t-1{
+    border: 2px black;
+  }
+  .b1{
+    display: flex;
+    justify-content: space-between;
+    background-color: aqua;
+    
+  }
+  .skills-container{
+    margin: 32px;
+    display: flex;
+    justify-content: space-between;
+    gap: 24px;
+    
+  
+  }
+  .skill-1{
+    margin: 20px;
+    padding: 40px;
+    border-radius: 20px;
+    background-color: rgba(84, 144, 245, 0.2);
+    padding: 30px;
+    box-shadow: 0px 6px 40px 0px rgba(0, 0, 0, 0.06);
+    border-radius: 15px;
+    box-sizing: 200px;
+  
+  }
+  .skill-2{
+    margin: 20px;
+    padding: 40px;
+    background-color: #C6E4D6;
+    padding: 30px;
+    box-shadow: 0px 6px 40px 0px rgba(21, 35, 194, 0.06);
+    border-radius: 15px;
+  
+  }
+  .skill-3{
+    margin: 20px;
+    padding: 40px;
+    background-color: #F7EBCF;
+    padding: 30px;
+    box-shadow: 0px 6px 40px 0px rgba(0, 0, 0, 0.06);
+    border-radius: 15px;
+  
+  }
+  .skills{
+    background-color: rgb(226, 230, 238);
+  }
+  .container-1{
+    display: flex;
+    gap: 40px;
+
+  }
+  .satellite{
+    border-radius: 24px;
+  }
+  .satelite-button{
+    border-radius: 4px;
+    background-color: #006A50;
+    color: #FFFFFF;
+  }
+  .Donate{
+    text-align: center;
+  }
+  .button-taka{
+    display: flex;
+    justify-content: space-around;
+    padding: 40px;
+    
+
+    box-sizing: 400px
+  }
+  .button-taka:hover {
+    background-color: #fefdfd;
+}
+  .taka{
+    background-color: #FFFFFF;
+  }
+  .taka-2{
+    background-color: #C6E4D6;
+
+
+  }
+  .submit{
+    justify-items: center;
+  }
+  .submit-order{
+    gap: 50px;
+    
+  }
+  .other-amount input {
+    border-radius: 5px;
+    gap: 20px;
+}
+  .done-now{
+    background-color: #006A50;
+    color: white;
+  }
+
+  .amount-submit{
+    justify-items: center;
+
+  }
+  .subscribe{
+    background-color: #C6E4D6;
+    border-radius: 20px;
+    gap: 25px;
+  }
+  .subscribe-title{
+    text-align: center;
+  }
+  .promise{
+    text-align: center;
+  }
+  .email{
+    justify-items: center;
+  }
+  .bangladesh{
+    justify-items: center;
+  }
